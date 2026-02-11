@@ -53,6 +53,13 @@
         "testCaseType": "TestCase",
         "executionTemplateInvokeIsolated": false,
         "fileName": "TestCaseLogin.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "b96315d5-0468-47fe-9191-e2ee0dfa901d",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "TestCase1.xaml"
       }
     ],
     "saveToCloud": false
